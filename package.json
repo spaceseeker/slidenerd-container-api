@@ -24,7 +24,7 @@
   "homepage": "https://github.com/spaceseeker/slidenerd-container-api#readme",
   "dependencies": {
     "dockerode": "^2.5.3",
-    "express": "^4.16.2",
+    "express": "^4.16.2"
   },
   "devDependencies": {
     "nodemon": "^1.12.5"
