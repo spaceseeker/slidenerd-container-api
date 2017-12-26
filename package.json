@@ -1,0 +1,32 @@
+{
+  "name": "slidenerd-container-api",
+  "version": "1.0.0",
+  "description": "API wrapper for glot containers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceseeker/slidenerd-container-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "containers",
+    "API"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaceseeker/slidenerd-container-api/issues"
+  },
+  "homepage": "https://github.com/spaceseeker/slidenerd-container-api#readme",
+  "dependencies": {
+    "dockerode": "^2.5.3",
+    "express": "^4.16.2",
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.5"
+  }
+}
