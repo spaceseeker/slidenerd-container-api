@@ -1,4 +1,4 @@
-**Getting Started **
+**Getting Started**
 ===========
 
 To install this service, deploy the source code into a directory. From that directory run:
@@ -6,7 +6,7 @@ To install this service, deploy the source code into a directory. From that dire
 
 `npm run start`
 
-The service runs on port 3000, ensure that the server allows this port.
+The service runs on port 8080, ensure that the server allows this port.
 
 
 **API Documentation**
