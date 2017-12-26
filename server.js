@@ -1,7 +1,7 @@
 var express = require('express'),
   app = express(),
   port = process.env.PORT || 8080,
-  host = process.env.HOST || 0.0.0.0,
+  host = process.env.HOST || '0.0.0.0',
   bodyParser = require('body-parser');
 
  //test
